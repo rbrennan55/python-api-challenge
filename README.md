@@ -17,15 +17,25 @@ To fulfill the second requirement, compute the linear regression for each relati
 Next, create a series of scatter plots. Be sure to include the linear regression line, the model's formula, and the r values as you can see in the following image
  
 You should create the following plots:
+
 •	Northern Hemisphere: Temperature vs. Latitude
+
 •	Southern Hemisphere: Temperature vs. Latitude
+
 •	Northern Hemisphere: Humidity vs. Latitude
+
 •	Southern Hemisphere: Humidity vs. Latitude
+
 •	Northern Hemisphere: Cloudiness vs. Latitude
+
 •	Southern Hemisphere: Cloudiness vs. Latitude
+
 •	Northern Hemisphere: Wind Speed vs. Latitude
+
 •	Southern Hemisphere: Wind Speed vs. Latitude
+
 After each pair of plots, explain what the linear regression is modeling. Describe any relationships that you notice and any other findings you may uncover.
+
 # Part 2: VacationPy
 In this deliverable, you'll use your weather data skills to plan future vacations. Also, you'll use Jupyter notebooks, the geoViews Python library, and the Geoapify API.
 The code needed to import the required libraries and load the CSV file with the weather and coordinates data for each city created in Part 1 is provided to help you get started.
@@ -42,6 +52,7 @@ To succeed on this deliverable of the assignment, open the VacationPy.ipynb star
 6.	Add the hotel name and the country as additional information in the hover message for each city on the map as in the following image:
  
 Hints and Considerations
+
 •	The city data that you generate is based on random coordinates and different query times, so your outputs will not be an exact match to the provided starter notebook.
 
 •	If you'd like a refresher on the geographic coordinate system, this site has great information.
