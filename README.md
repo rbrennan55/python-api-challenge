@@ -5,6 +5,11 @@ This activity is broken down into two deliverables, WeatherPy and VacationPy.
 ## Solution for Part 1 files submitted:
 - WeatherPy.ipynb
 - api_keys.py
+- /output/cities.csv
+- /output/Fig.1png
+- /output/Fig.2png
+- /output/Fig.3png
+- /output/Fig.4png
 - ReadMe.md (this file)
 
 # Part 1: WeatherPy
@@ -46,6 +51,7 @@ After each pair of plots, explain what the linear regression is modeling. Descri
 ## Solution for Part 1 files submitted:
 - VacationPy.ipynb
 - api_keys.py
+- /output/cities.csv
 - ReadMe.md (this file)
 
 In this deliverable, you'll use your weather data skills to plan future vacations. Also, you'll use Jupyter notebooks, the geoViews Python library, and the Geoapify API.
