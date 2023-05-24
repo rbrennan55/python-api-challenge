@@ -107,7 +107,7 @@ Create Plots to Showcase the Relationship Between Weather Variables and Latitude
 
 •	Create a scatter plot to showcase the relationship between Latitude vs. Wind Speed (5 points)
 
-Compute Linear Regression for Each Relationship (40 points)
+•	Compute Linear Regression for Each Relationship (40 points)
 
 •	Linear regression scatter plot for Northern Hemisphere: Temperature (C) vs. Latitude (5 points)
 
